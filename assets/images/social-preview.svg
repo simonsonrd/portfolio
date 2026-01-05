@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Social preview placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b1220"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="#0f172a" stroke="#1f2937" />
+  <text x="80" y="180" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" fill="white" font-weight="700">Your Name</text>
+  <text x="80" y="260" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="42" fill="#a1a1aa">Portfolio</text>
+  <path d="M80 360 L 280 360" stroke="url(#g)" stroke-width="12" stroke-linecap="round"/>
+</svg>
